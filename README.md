@@ -4,7 +4,7 @@ This repository consists of the scripts and data intended to replicate the exper
 ## Structure
 The repository is organized as follows:
 - [scripts](scripts) - scripts used in the development of the deep learning algorithm: finding hyperparameters, model traning, evaluation, visualization, and statistical calculations
-- [animations](animations) - contains animations illustrating the impact of ensemble width on the features of ILD (Interaural Level Difference), ITD (Interaural Time Difference), and IC (Interaural Coherence)
+- [animations](animations) - contains animations illustrating the impact of ensemble width on the ILD (Interaural Level Difference), ITD (Interaural Time Difference), and IC (Interaural Coherence)
 - [figures](figures) - includes both the figures utilized in the paper and additional ones not featured
 
 ## Dependencies
